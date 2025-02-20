@@ -1,6 +1,6 @@
 # Personal Knowledge Repository
 
-Welcome to the personal knowledge repository for Micah. This was created with the help of AI. Most of this will be personal knowledge but knowledge changes so always please verify any information you find here personally.
+Welcome to the personal knowledge repository for [Micah](micah_bio.md). This was created with the help of AI. Most of this will be personal knowledge but knowledge changes so always please verify any information you find here personally.
 
 This is a collection of insights, studies, and lessons learned across various topics. The goal is to keep track of important information, organize knowledge effectively, and make it easy to reference in the future.
 
